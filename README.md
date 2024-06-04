@@ -47,5 +47,6 @@ Enhance Customer Satisfaction
 Drive Profitability
 
 Additional Notes
+
 The data for this report is from a sample pizza sales dataset.
 The report can be customized to include additional metrics and visualizations to meet your specific needs
